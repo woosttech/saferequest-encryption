@@ -1,6 +1,6 @@
 {
   "name": "@woosttech/saferequest-encryption",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SafeRequest encryption/decryption libraries",
   "main": "lib/index.js",
   "scripts": {
