@@ -1,0 +1,26 @@
+{
+  "name": "@woosttech/saferequest-encryption",
+  "version": "1.0.0",
+  "description": "SafeRequest encryption/decryption libraries",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woosttech/saferequest-encryption.git"
+  },
+  "keywords": [
+    "saferequest",
+    "encryption",
+    "decryption",
+    "aes",
+    "rsa"
+  ],
+  "author": "Woost Technologies B.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woosttech/saferequest-encryption/issues"
+  },
+  "homepage": "https://github.com/woosttech/saferequest-encryption#readme"
+}
